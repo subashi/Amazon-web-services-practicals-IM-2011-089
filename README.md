@@ -18,9 +18,7 @@ There are lot of services avilable in aws console the following image show the a
 
  1.CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
 
-Log In to the Amazon Web Service Console,Create an EC2 instance,Convert a PEM key to a PPK key( I have learnt  how to generate a PPK (PuTTY key) using the AWS PEM key),Connect to a remote shell using an SSH connection,Get the EC2 instance metadata
-( cover How to get the EC2 instance ID and other useful metadata) and finally Terminate an EC2 instance
-How to destroy an EC2 instance
+Following steps I foowed when i was folowing this lab ,first Log In to the Amazon Web Service Console,Create an EC2 instance,Convert a PEM key to a PPK key( I have learnt  how to generate a PPK (PuTTY key) using the AWS PEM key),Connect to a remote shell using an SSH connection,Get the EC2 instance metadata( cover How to get the EC2 instance ID and other useful metadata) and finally Terminate an EC2 instance(How to destroy an EC2 instance).
 
 
 
