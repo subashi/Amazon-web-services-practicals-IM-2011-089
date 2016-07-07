@@ -6,7 +6,7 @@ This practicals mainly for practicing  and Understanding how to use Amazon Virtu
  ![1](https://cloud.githubusercontent.com/assets/18344191/16651212/21d21218-4460-11e6-8e9e-369dfb9f9a6d.PNG)
  
  
- There are 111 lab guides for amazon web services we have to follow the steps .
+ There are 11 lab guides for amazon web services we have to follow the steps .
  
  ![2](https://cloud.githubusercontent.com/assets/18344191/16651244/55a93a6c-4460-11e6-9aa2-a927040392a8.PNG)
 
