@@ -8,9 +8,8 @@ This practicals mainly for practicing  and Understanding how to use Amazon Virtu
  ![2](https://cloud.githubusercontent.com/assets/18344191/16651244/55a93a6c-4460-11e6-9aa2-a927040392a8.PNG)
 
  For access the amazon web service console we have to create the new accounta for access the services we have to sign in .
- 
- 
- ![3](https://cloud.githubusercontent.com/assets/18344191/16651562/603f4f6e-4462-11e6-96fc-a7df26b1c4e5.PNG)
+
+
 ![4](https://cloud.githubusercontent.com/assets/18344191/16651564/606e997c-4462-11e6-9cb0-861c372e4176.PNG)
 
  
