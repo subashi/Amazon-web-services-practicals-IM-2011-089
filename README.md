@@ -30,6 +30,15 @@ Amazon EC2 is the most famous AWS service and allows you to launch different typ
 Amazon Elastic Block Store (Amazon EBS) provides persistent block level storage volumes for use with Amazon EC2 instances in the AWS Cloud.  Each Amazon EBS volume is automatically replicated within its Availability Zone to protect you from component failure. This provides high availability and durability. Amazon EBS volumes offer consistent, low-latency performance needed to run your workloads.
 
 
+4.CREATE YOUR FIRST AMAZON S3 BUCKET
 
+Amazon Simple Storage Service (Amazon S3), provides secure, durable, and highly-scalable object storage. Amazon S3 allows you to store and retrieve any amount of data from anywhere on the web. You'll pay only for the storage you actually use with no minimum fee and no setup cost. It can be used alone, or together with other AWS services, such as Amazon Elastic Compute Cloud (Amazon EC2), Amazon Elastic Block Store (Amazon EBS), and Amazon Glacier. You can also use Amazon S3 with third-party storage repositories and gateways.
 
+5.CREATE AN EBS-BACKED LINUX AMI
+
+An Amazon Machine Image (AMI) provides the information required to launch an EC2 instance. You can customize an EC2 instance and then save the configuration as a custom AMI for your private or public use. Every EC2 instance launched selecting the customized AMI will contain any software or file that you've previously added.During this lab, i have setup a webserver EC2 instance starting from a Linux AMI, and then generate a new AMI.
+
+7.INTRODUCTION TO DYNAMODB  
+
+Amazon DynamoDB is a NoSQL Database in the cloud, suitable for anyone needing a reliable and fully managed NoSQL solution. DynamoDB is designed to provide automated storage scaling and low latency. It is particularly useful when your application must read and store massive amounts of data and you need speed and reliability (Amazon works with replicas of you database in three different Availability Zones). Amazon DynamoDB is totally managed. You simply select an AWS region, define the needed indexes for each table you will create, and Amazon takes care of everything else.
  
