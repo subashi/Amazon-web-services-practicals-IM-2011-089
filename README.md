@@ -5,6 +5,8 @@ This practicals mainly for practicing  and Understanding how to use Amazon Virtu
  First we have to create account in Aws cloud achadamy to access lab practicals guide.
  
  
+ ![2](https://cloud.githubusercontent.com/assets/18344191/16651244/55a93a6c-4460-11e6-9aa2-a927040392a8.PNG)
+
  
  
  I followed the following practicle in amazon webservices
