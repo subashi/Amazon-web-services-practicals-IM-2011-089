@@ -12,6 +12,8 @@ This practicals mainly for practicing  and Understanding how to use Amazon Virtu
 
 ![4](https://cloud.githubusercontent.com/assets/18344191/16651564/606e997c-4462-11e6-9cb0-861c372e4176.PNG)
 
+There are lot of services avilable in aws console the following image show the available services in AWS console .
+
  
  1.CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
  2.CREATE YOUR FIRST AMAZON EC2 INSTANCE (WINDOWS)
