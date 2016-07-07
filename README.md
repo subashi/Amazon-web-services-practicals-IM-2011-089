@@ -21,6 +21,15 @@ There are lot of services avilable in aws console the following image show the a
 Following steps I foowed when i was folowing this lab ,first Log In to the Amazon Web Service Console,Create an EC2 instance,Convert a PEM key to a PPK key( I have learnt  how to generate a PPK (PuTTY key) using the AWS PEM key),Connect to a remote shell using an SSH connection,Get the EC2 instance metadata( cover How to get the EC2 instance ID and other useful metadata) and finally Terminate an EC2 instance(How to destroy an EC2 instance).
 
 
+2. CREATE YOUR FIRST AMAZON EC2 INSTANCE (WINDOWS) 
+
+Amazon EC2 is the most famous AWS service and allows you to launch different types of cloud instances and pay for them with a pay-per-use approach. With Amazon EC2 you can create new servers in a few minutes and use different images (AMI) to personalize them. AWS provides several Microsoft Windows Server AMIs that enables you to run any compatible Windows-based solution. You can use Windows-based applications, websites, and web-services written in .NET, for data processing, media transcoding, and any other task requiring Windows software.
+
+3.MANAGING INSTANCE VOLUMES USING EBS
+
+Amazon Elastic Block Store (Amazon EBS) provides persistent block level storage volumes for use with Amazon EC2 instances in the AWS Cloud.  Each Amazon EBS volume is automatically replicated within its Availability Zone to protect you from component failure. This provides high availability and durability. Amazon EBS volumes offer consistent, low-latency performance needed to run your workloads.
+
+
 
 
  
