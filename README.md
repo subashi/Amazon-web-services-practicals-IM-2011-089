@@ -3,7 +3,7 @@
 This practicals mainly for practicing  and Understanding how to use Amazon Virtual Private Cloud (VPC), EC2 and EBS, Elastic Load Balancing (ELB) and AutoScaling, RDS and DynamoDB is a fundamental task for any aspiring AWS Architect.
 
  First we have to create account in Aws cloud achadamy to access lab practicals guide.
- 
+ ![1](https://cloud.githubusercontent.com/assets/18344191/16651212/21d21218-4460-11e6-8e9e-369dfb9f9a6d.PNG)
  
  
  There are 111 lab guides for amazon web services we have to follow the steps .
