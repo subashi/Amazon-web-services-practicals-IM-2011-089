@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=glHPVqx89gQ&feature=youtu.be
 2.CREATE YOUR FIRST AMAZON EC2 INSTANCE (WINDOWS) 
 
 Amazon EC2 is the most famous AWS service and allows you to launch different types of cloud instances and pay for them with a pay-per-use approach. With Amazon EC2 you can create new servers in a few minutes and use different images (AMI) to personalize them. AWS provides several Microsoft Windows Server AMIs that enables you to run any compatible Windows-based solution. You can use Windows-based applications, websites, and web-services written in .NET, for data processing, media transcoding, and any other task requiring Windows software.
+
 https://www.youtube.com/watch?v=BPYaeV3dOmY&feature=youtu.be
 
 3.MANAGING INSTANCE VOLUMES USING EBS
